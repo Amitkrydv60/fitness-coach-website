@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
 
-import img1 from "../assets/transformation1.jpg";
-import img2 from "../assets/transformation2.jpg";
-import img3 from "../assets/transformation3.jpg";
-import img4 from "../assets/transformation4.jpg";
+import img1 from "../assets/Transformation1.jpg";
+import img2 from "../assets/Transformation2.jpg";
+import img3 from "../assets/Transformation3.jpg";
+import img4 from "../assets/Transformation4.jpg";
 
 const transformations = [
   {
